@@ -1,4 +1,4 @@
 # hello-world
 Algus
 
-Tutvustusfail projekti kohta
+Tutvustusfail projekti kohta!
